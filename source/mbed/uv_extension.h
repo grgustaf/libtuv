@@ -34,8 +34,8 @@
  * IN THE SOFTWARE.
  */
 
-#ifndef __uv_extenstion_header__
-#define __uv_extenstion_header__
+#ifndef __uv_extension_header__
+#define __uv_extension_header__
 
 #ifdef __cplusplus
 extern "C" {
@@ -204,4 +204,4 @@ enum {
 #endif
 
 
-#endif // __uv_extenstion_header__
+#endif // __uv_extension_header__
